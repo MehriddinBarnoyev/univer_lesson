@@ -1,5 +1,4 @@
 function uyniNarxiniBilish(hozirgiNarx, yil) {
-    // Calculate the price increase rate
     const increaseRate = 0.5; // 50% increase
     const yearsToIncrease = 5;
 

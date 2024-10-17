@@ -17,4 +17,4 @@ function benzinHisobla(benzinName, litr) {
   );
 }
 
-benzinHisobla("Ai92", 10);  // The total cost for 10 liters of Ai92 is: 110000 so'm
+benzinHisobla("Ai92", 10);  

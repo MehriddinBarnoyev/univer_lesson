@@ -5,4 +5,6 @@ function calcKartoshka(kg, price) {
     } so'm pul topasiz`
   );
 }
+
+let kartoshkaKg = prompt()
 calcKartoshka(20, 10000);
